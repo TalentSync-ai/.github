@@ -1,1 +1,1 @@
-# .github
+TalentSync-AI represents the future of interviewing. Instead of a human interviewer, our AI schedules and conducts interactive video interviews, including technical assessments in an in-browser coding environment. Leveraging Retrieval-Augmented Generation (RAG), the AI provides dynamic, context-aware interactions and detailed analytics, significantly reducing time-to-hire and enhancing accuracy. By investing in our solution, companies can streamline recruitment, improve efficiency, and quickly secure top talent.
